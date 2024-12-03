@@ -29,6 +29,7 @@ A modern task management application built with React, TypeScript, and Tailwind 
 Visit `http://localhost:3000`
 
 ## Project Structure
+<pre>
 src/
 ├── components/         # UI components
 │   ├── common/         # Reusable components
@@ -37,6 +38,9 @@ src/
 ├── services/           # API layer
 ├── context/            # Global state
 └── types/              # TypeScript types
+</pre>
+
+
 
 ## Key Features
 
