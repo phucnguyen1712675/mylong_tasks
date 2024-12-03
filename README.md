@@ -30,14 +30,13 @@ Visit `http://localhost:3000`
 
 ## Project Structure
 src/
-├── components/ # UI components
-│ ├── common/ # Reusable components
-│ └── ... # Feature components
-├── hooks/ # Custom hooks
-├── services/ # API layer
-├── context/ # Global state
-└── types/ # TypeScript types
-
+├── components/         # UI components
+│   ├── common/         # Reusable components
+│   └── ...             # Feature components
+├── hooks/              # Custom hooks
+├── services/           # API layer
+├── context/            # Global state
+└── types/              # TypeScript types
 
 ## Key Features
 
